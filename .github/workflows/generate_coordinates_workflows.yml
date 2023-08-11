@@ -1,0 +1,35 @@
+name: Generate Coordinates
+
+on:
+  push:
+    paths:
+      - 'cities.csv'
+
+jobs:
+  generate_coordinates:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+
+    - name: Determine added lines in cities.csv
+      id: changed_lines
+      run: |
+        python changed_lines.py
+      env:
+        OLD_HEAD: ${{ github.event.before }}
+        NEW_HEAD: ${{ github.sha }}
+
+    - name: Commit changes
+      run: |
+        git config --global user.email "github-actions@example.com"
+        git config --global user.name "GitHub Actions"
+        git add added_lines.txt
+        git commit -m "Add recently added lines"
+        git push
