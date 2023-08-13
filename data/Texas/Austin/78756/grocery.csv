@@ -1,0 +1,5 @@
+place_type,name,grocery_latitude,grocery_longitude,distance,source_latitude,source_longitude
+grocery_or_supermarket,Fresh Plus Grocery,30.30491689999999,-97.7264311,2123.543430358169,30.32,-97.74
+grocery_or_supermarket,Han Yang Market,30.3361904,-97.7210397,2559.803195559278,30.32,-97.74
+grocery_or_supermarket,99 Ranch Market,30.3376742,-97.7178416,2895.715081311126,30.32,-97.74
+grocery_or_supermarket,Randalls,30.3353802,-97.7579597,2428.1795308329965,30.32,-97.74

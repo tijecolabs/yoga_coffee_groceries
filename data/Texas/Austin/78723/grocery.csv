@@ -1,0 +1,6 @@
+place_type,name,grocery_latitude,grocery_longitude,distance,source_latitude,source_longitude
+grocery_or_supermarket,Target Grocery,30.3163606,-97.7062519,2396.5751864780377,30.3,-97.69
+grocery_or_supermarket,El Rancho Supermercado,30.3202307,-97.69038220000002,2249.850378316753,30.3,-97.69
+grocery_or_supermarket,Mosaic Market,30.2988793,-97.70740699999999,1675.811905752139,30.3,-97.69
+grocery_or_supermarket,POCO LOCO SUPERMERCADO #7,30.32003499999999,-97.69508429999999,2280.627454874715,30.3,-97.69
+grocery_or_supermarket,Family Dollar,30.28975119999999,-97.70662519999999,1961.2600846493938,30.3,-97.69

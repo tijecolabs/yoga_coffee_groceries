@@ -1,0 +1,4 @@
+place_type,name,grocery_latitude,grocery_longitude,distance,source_latitude,source_longitude
+grocery_or_supermarket,Fresh Plus Grocery,30.30491689999999,-97.7264311,2289.055569351772,30.29,-97.71
+grocery_or_supermarket,Poco loco Supermercado #6,30.2725101,-97.69857309999999,2232.971535048552,30.29,-97.71
+grocery_or_supermarket,Mosaic Market,30.2988793,-97.70740699999999,1018.236500568596,30.29,-97.71

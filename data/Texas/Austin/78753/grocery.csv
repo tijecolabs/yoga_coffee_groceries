@@ -1,0 +1,6 @@
+place_type,name,grocery_latitude,grocery_longitude,distance,source_latitude,source_longitude
+grocery_or_supermarket,International Foods,30.3822472,-97.68510529999999,1470.373907444815,30.38,-97.67
+grocery_or_supermarket,MT Supermarket,30.3780174,-97.6859436,1545.2404098980755,30.38,-97.67
+grocery_or_supermarket,Mi Casa Market,30.3773319,-97.65926499999999,1071.672494490357,30.38,-97.67
+grocery_or_supermarket,Masterson Super Mercado Mexicana,30.3705506,-97.69171519999999,2333.156773413009,30.38,-97.67
+grocery_or_supermarket,Southwest Farmers Market,30.36336339999999,-97.6839796,2284.9038884473844,30.38,-97.67

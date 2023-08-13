@@ -1,0 +1,6 @@
+place_type,name,grocery_latitude,grocery_longitude,distance,source_latitude,source_longitude
+grocery_or_supermarket,Randalls,30.2291383,-97.79016039999999,2282.5135826505525,30.24,-97.77
+grocery_or_supermarket,POCO LOCO SUPERMERCADO#2,30.2257287,-97.7707452,1588.5102544728347,30.24,-97.77
+grocery_or_supermarket,Wheatsville Food Co-op,30.2355801,-97.790999,2076.296470239345,30.24,-97.77
+grocery_or_supermarket,Target Grocery,30.2334001,-97.7914251,2185.167503986095,30.24,-97.77
+grocery_or_supermarket,Sprouts Farmers Market,30.2379643,-97.7930552,2226.332682586346,30.24,-97.77

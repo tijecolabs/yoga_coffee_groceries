@@ -1,0 +1,4 @@
+place_type,name,grocery_latitude,grocery_longitude,distance,source_latitude,source_longitude
+grocery_or_supermarket,Whole Foods Market,30.4063209,-97.7201151,2057.8273055035015,30.39,-97.71
+grocery_or_supermarket,Natural Grocers,30.3874483,-97.7332291,2246.0873248726134,30.39,-97.71
+grocery_or_supermarket,Masterson Super Mercado Mexicana,30.3705506,-97.69171519999999,2784.540717184129,30.39,-97.71

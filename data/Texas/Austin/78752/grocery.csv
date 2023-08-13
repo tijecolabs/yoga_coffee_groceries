@@ -1,0 +1,9 @@
+place_type,name,grocery_latitude,grocery_longitude,distance,source_latitude,source_longitude
+grocery_or_supermarket,El Rancho Supermercado,30.3202307,-97.69038220000002,1425.5507664875984,30.33,-97.7
+grocery_or_supermarket,99 Ranch Market,30.3376742,-97.7178416,1913.1466219991787,30.33,-97.7
+grocery_or_supermarket,Target Grocery,30.3163606,-97.7062519,1631.030492281702,30.33,-97.7
+grocery_or_supermarket,POCO LOCO SUPERMERCADO #7,30.32003499999999,-97.69508429999999,1204.3247775865004,30.33,-97.7
+grocery_or_supermarket,Han Yang Market,30.3361904,-97.7210397,2133.339602907985,30.33,-97.7
+grocery_or_supermarket,La Hacienda Market,30.3288889,-97.6894444,1020.593819397308,30.33,-97.7
+grocery_or_supermarket,JD’s Supermarket #8,30.3443336,-97.67736810000001,2694.005757150332,30.33,-97.7
+grocery_or_supermarket,Lone Star Family Market #2,30.3257639,-97.69311669999999,811.3712184255368,30.33,-97.7

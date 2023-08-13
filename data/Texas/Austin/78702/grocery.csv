@@ -1,0 +1,4 @@
+place_type,name,grocery_latitude,grocery_longitude,distance,source_latitude,source_longitude
+grocery_or_supermarket,Royal Blue Grocery,30.2624553,-97.7252084,1485.9587593492174,30.26,-97.71
+grocery_or_supermarket,Poco loco Supermercado #6,30.2725101,-97.69857309999999,1771.828417867651,30.26,-97.71
+grocery_or_supermarket,Target Grocery,30.2637773,-97.7332349,2270.7213103039708,30.26,-97.71

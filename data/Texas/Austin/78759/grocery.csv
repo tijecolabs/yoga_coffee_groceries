@@ -1,0 +1,6 @@
+place_type,name,grocery_latitude,grocery_longitude,distance,source_latitude,source_longitude
+grocery_or_supermarket,Trader Joe's,30.3952555,-97.7521596,918.5755026346136,30.4,-97.76
+grocery_or_supermarket,Randalls,30.4021805,-97.74719449999999,1251.830130391889,30.4,-97.76
+grocery_or_supermarket,Sprouts Farmers Market,30.3950064,-97.7447322,1566.0699299973835,30.4,-97.76
+grocery_or_supermarket,Whole Foods Market,30.3892849,-97.7417475,2117.6243234552226,30.4,-97.76
+grocery_or_supermarket,Target Grocery,30.3927458,-97.7438856,1743.3751695381013,30.4,-97.76

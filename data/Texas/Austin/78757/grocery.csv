@@ -1,0 +1,7 @@
+place_type,name,grocery_latitude,grocery_longitude,distance,source_latitude,source_longitude
+grocery_or_supermarket,Lone Star Family Market #1,30.365522,-97.7188542,2030.4265074125033,30.35,-97.73
+grocery_or_supermarket,Fresh Plus Grocery,30.358279,-97.738947,1258.756247942608,30.35,-97.73
+grocery_or_supermarket,99 Ranch Market,30.3376742,-97.7178416,1799.9311021503145,30.35,-97.73
+grocery_or_supermarket,El Rancho Supermercado,30.36503159999999,-97.71979499999999,1937.1252046450315,30.35,-97.73
+grocery_or_supermarket,Target Grocery,30.3629265,-97.71536359999999,2009.5363326201923,30.35,-97.73
+grocery_or_supermarket,Han Yang Market,30.3361904,-97.7210397,1759.912195742576,30.35,-97.73

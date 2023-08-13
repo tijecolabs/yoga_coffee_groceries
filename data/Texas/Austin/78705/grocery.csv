@@ -1,0 +1,5 @@
+place_type,name,grocery_latitude,grocery_longitude,distance,source_latitude,source_longitude
+grocery_or_supermarket,Fresh Plus Grocery,30.30491689999999,-97.7264311,2109.1011153830077,30.29,-97.74
+grocery_or_supermarket,Wheatsville Food Co-op,30.2975583,-97.7410694,846.693095508424,30.29,-97.74
+grocery_or_supermarket,Target Grocery,30.2833507,-97.7415642,754.468839158361,30.29,-97.74
+grocery_or_supermarket,Whole Foods Market,30.2706339,-97.753587,2517.813564312791,30.29,-97.74

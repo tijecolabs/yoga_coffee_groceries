@@ -1,0 +1,3 @@
+place_type,name,grocery_latitude,grocery_longitude,distance,source_latitude,source_longitude
+grocery_or_supermarket,German Gourmet & Americandy Inc,30.3415589,-97.75495459999999,1722.0430535111939,30.35,-97.77
+grocery_or_supermarket,Randalls,30.3353802,-97.7579597,1994.4281432547305,30.35,-97.77

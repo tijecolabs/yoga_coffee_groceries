@@ -1,0 +1,4 @@
+place_type,name,cafe_latitude,cafe_longitude,distance,source_latitude,source_longitude
+cafe,Malone Specialty Coffee,30.4462041,-97.6855343,601.1732725014494,30.45,-97.69
+cafe,McDonald's,30.4392853,-97.6976985,1401.4746910120166,30.45,-97.69
+cafe,McDonald's,30.4565178,-97.66796550000001,2232.997235559946,30.45,-97.69

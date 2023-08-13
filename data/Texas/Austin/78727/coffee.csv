@@ -1,0 +1,5 @@
+place_type,name,cafe_latitude,cafe_longitude,distance,source_latitude,source_longitude
+cafe,Austin Grind,30.4250364,-97.7160848,667.4886272214023,30.43,-97.72
+cafe,Starbucks,30.4188169,-97.7027363,2070.341574474204,30.43,-97.72
+cafe,Kolache Factory,30.4253079,-97.7167449,607.9605010470823,30.43,-97.72
+cafe,Happy Lemon,30.4181233,-97.70220859999999,2157.3505309759694,30.43,-97.72

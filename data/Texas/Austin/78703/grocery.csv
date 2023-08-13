@@ -1,0 +1,5 @@
+place_type,name,grocery_latitude,grocery_longitude,distance,source_latitude,source_longitude
+grocery_or_supermarket,Randalls,30.3042649,-97.7638905,1691.163813579535,30.29,-97.77
+grocery_or_supermarket,H-E-B,30.2837909,-97.7758207,888.2796915419807,30.29,-97.77
+grocery_or_supermarket,Whole Foods Market,30.2706339,-97.753587,2668.5419248176586,30.29,-97.77
+grocery_or_supermarket,Trader Joe's,30.27019529999999,-97.7898702,2913.791967142478,30.29,-97.77

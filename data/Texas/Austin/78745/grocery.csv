@@ -1,0 +1,4 @@
+place_type,name,grocery_latitude,grocery_longitude,distance,source_latitude,source_longitude
+grocery_or_supermarket,Lone Star Family Market #4,30.2087251,-97.7799597,1930.9600297798802,30.21,-97.8
+grocery_or_supermarket,Sprouts Farmers Market,30.2023776,-97.8082807,1162.581817091917,30.21,-97.8
+grocery_or_supermarket,Randalls,30.2291383,-97.79016039999999,2328.6399922400624,30.21,-97.8
