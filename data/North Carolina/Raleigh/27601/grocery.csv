@@ -1,0 +1,4 @@
+place_type,name,grocery_latitude,grocery_longitude,distance,source_latitude,source_longitude
+grocery_or_supermarket,Taz's Supermarket One,35.7779986,-78.6381147,1151.941952837908,35.77,-78.63
+grocery_or_supermarket,Publix Super Market on Peace St.,35.7881317,-78.6448516,2420.7096473417923,35.77,-78.63
+grocery_or_supermarket,Larry's Super Market,35.7884978,-78.6128556,2573.4461872605757,35.77,-78.63

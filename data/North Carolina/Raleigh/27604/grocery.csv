@@ -1,0 +1,3 @@
+place_type,name,grocery_latitude,grocery_longitude,distance,source_latitude,source_longitude
+grocery_or_supermarket,Lidl,35.83156,-78.56707700000001,1435.0550745164535,35.82,-78.56
+grocery_or_supermarket,Don Juan Food Market,35.7998469,-78.56780289999999,2348.7917872497133,35.82,-78.56

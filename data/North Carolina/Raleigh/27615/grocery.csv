@@ -1,0 +1,4 @@
+place_type,name,grocery_latitude,grocery_longitude,distance,source_latitude,source_longitude
+grocery_or_supermarket,Lowes Foods on Strickland Road,35.9029869,-78.6556277,1446.2524703646598,35.9,-78.64
+grocery_or_supermarket,Whole Foods Market,35.8994612,-78.65042319999999,940.7567657324802,35.9,-78.64
+grocery_or_supermarket,Target Grocery,35.8984288,-78.6528166,1167.5801467183433,35.9,-78.64
