@@ -21,17 +21,18 @@ jobs:
     - name: Determine added lines in cities.csv
       id: changed_lines
       run: |
-        python changed_lines.py
+        pip install pandas new_data_dict
+        python city_zip_data.py $GOOGLE_MAPS_API
       env:
-        OLD_HEAD: ${{ github.event.before }}
-        NEW_HEAD: ${{ github.sha }}
+        GOOGLE_MAPS_API: ${{ secrets.GOOGLE_MAPS_API }}  # Access the secret
 
     - name: Commit changes
+
       run: |
         git config --global user.email "github-actions@example.com"
         git config --global user.name "GitHub Actions"
-        git add added_lines.txt
-        git commit -m "Add recently added lines"
+        git add data/*
+        git commit -m "Updated city zip data"
         git push origin main
     env:
       YCG_PAT: ${{ secrets.YCG_PAT }}
