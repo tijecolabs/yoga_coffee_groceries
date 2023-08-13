@@ -21,7 +21,7 @@ jobs:
     - name: Determine added lines in cities.csv
       id: changed_lines
       run: |
-        pip install pandas new_data_dict
+        pip install pandas uszipcode
         python city_zip_data.py $GOOGLE_MAPS_API
       env:
         GOOGLE_MAPS_API: ${{ secrets.GOOGLE_MAPS_API }}  # Access the secret
